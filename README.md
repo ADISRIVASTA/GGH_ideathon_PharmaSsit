@@ -88,6 +88,10 @@ pharmassist/
 
 📸 Project Screenshots
 
+Flowchart:
+![image](https://github.com/user-attachments/assets/41b9d473-aed3-4215-9158-64e42af16504)
+
+
 🏠 Homepage
 ![Screenshot 2025-02-25 215545](https://github.com/user-attachments/assets/e430dea7-dee8-4090-a9bf-c26ca5d4b892)
 

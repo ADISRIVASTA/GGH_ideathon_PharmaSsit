@@ -1,5 +1,5 @@
 # GGH_ideathon_PharmaSsit
-💊 PharmaSsist
+💊 PharmaSsist:
 A 🗣️ Speech-to-Text Pharmacy System for converting prescriptions into structured data and 📄 CSV downloads.
 
 📹 Demo Video

@@ -4,6 +4,22 @@ A 🗣️ Speech-to-Text Pharmacy System for converting prescriptions into struc
 
 📹 Demo Video
 ▶️(https://drive.google.com/file/d/1aVuj3hwCkk6yjThIlwziMaR46TZ9Doms/view?usp=sharing)
+📸 Project Screenshots
+
+Flowchart:
+![image](https://github.com/user-attachments/assets/41b9d473-aed3-4215-9158-64e42af16504)
+
+
+🏠 Homepage
+![Screenshot 2025-02-25 215545](https://github.com/user-attachments/assets/e430dea7-dee8-4090-a9bf-c26ca5d4b892)
+
+🎙️ Speech-to-Text Input
+![Screenshot 2025-02-25 203934](https://github.com/user-attachments/assets/b6dedeef-6dfc-4030-bd1a-e56c5f8395c1)
+
+📊 Parsed Data Display
+![Screenshot 2025-02-25 203723](https://github.com/user-attachments/assets/70ef19a9-b0a7-41a4-ab38-7b2002878d13)
+Downloadable file
+![Screenshot 2025-02-25 203947](https://github.com/user-attachments/assets/ad1a7aa6-0917-4f2c-b382-8fadb0abcfb1)
 
 
 Features:
@@ -86,20 +102,5 @@ pharmassist/
 
 
 
-📸 Project Screenshots
 
-Flowchart:
-![image](https://github.com/user-attachments/assets/41b9d473-aed3-4215-9158-64e42af16504)
-
-
-🏠 Homepage
-![Screenshot 2025-02-25 215545](https://github.com/user-attachments/assets/e430dea7-dee8-4090-a9bf-c26ca5d4b892)
-
-🎙️ Speech-to-Text Input
-![Screenshot 2025-02-25 203934](https://github.com/user-attachments/assets/b6dedeef-6dfc-4030-bd1a-e56c5f8395c1)
-
-📊 Parsed Data Display
-![Screenshot 2025-02-25 203723](https://github.com/user-attachments/assets/70ef19a9-b0a7-41a4-ab38-7b2002878d13)
-Downloadable file
-![Screenshot 2025-02-25 203947](https://github.com/user-attachments/assets/ad1a7aa6-0917-4f2c-b382-8fadb0abcfb1)
 
